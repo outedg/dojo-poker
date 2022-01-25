@@ -20,18 +20,18 @@ Se dois jogadores possuem a mesma mão, vence que tiver a mão formada pelas car
 
 Alguns exemplos de mão e seus respectivos vencedores:
 
- 	| Jogador 1	 			| Jogador 2	 			| Vencedor	|
-	| --- | --- | --- |
- 	| 5H 5C 6S 7S KD 		| 2C 3S 8S 8D TD		| Jogador 2	|
-	| Par de cinco			| Par de oito 			| ---		|
-	| 5D 8C 9S JS AC		| 2C 5C 7D 8S QH		| Jogador 1	|
-	| Carta mais alta: Ás	| Carta mais alta: Dama	| ---		|
- 	| 2D 9C AS AH AC		| 3D 6D 7D TD QD		| Jogador 2	|
-	| Trinca de Ás			| Flush com Ouro		| ---		|
- 	| 4D 6S 9H QH QC		| 3D 6D 7H QD QS		| Jogador 1	|
-	| Par de Damas			| Par de Damas			| ---		|
- 	| Carta mais alta: 9	| Carta mais alta: 7	| ---		|
-	| 2H 2D 4C 4D 4S		| 3C 3D 3S 9S 9D		| Jogador 1 |
- 	| Full House			| Full House			| ---		|
-	| Com três 4			| Com três 3			| ---		|
+| Jogador 1 | Jogador 2 | Vencedor |
+| --- | --- | --- |
+| 5H 5C 6S 7S KD | 2C 3S 8S 8D TD | Jogador 2 |
+| Par de cinco | Par de oito | --- |
+| 5D 8C 9S JS AC | 2C 5C 7D 8S QH | Jogador 1 |
+| Carta mais alta: Ás | Carta mais alta: Dama | --- |
+| 2D 9C AS AH AC | 3D 6D 7D TD QD | Jogador 2 |
+| Trinca de Ás | Flush com Ouro | --- |
+| 4D 6S 9H QH QC | 3D 6D 7H QD QS | Jogador 1 |
+| Par de Damas | Par de Damas | --- |
+| Carta mais alta: 9 | Carta mais alta: 7 | --- |
+| 2H 2D 4C 4D 4S | 3C 3D 3S 9S 9D | Jogador 1 |
+| Full House | Full House | --- |
+| Com três 4 | Com três 3 | --- |
 
