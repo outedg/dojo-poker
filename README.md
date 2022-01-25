@@ -1,11 +1,6 @@
-Poker
-Contribuição de: Renne Rocha
-Gostei! Vamos usar esse!
-Não gostei! Mostre-me outro.
+# Poker
 
-Este problema foi utilizado em 217 Dojo(s).
-
-No jogo de Poker, uma mão consiste em cinco cartas que podem ser comparadas, da mais baixa para a mais alta, da seguinte maneira:
+###### No jogo de Poker, uma mão consiste em cinco cartas que podem ser comparadas, da mais baixa para a mais alta, da seguinte maneira:
 
 Carta Alta: A carta de maior valor.
 Um Par: Duas cartas do mesmo valor.
@@ -23,17 +18,16 @@ Se dois jogadores possuem a mesma mão, vence que tiver a mão formada pelas car
 
 Alguns exemplos de mão e seus respectivos vencedores:
 
- 	Jogador 1	 	Jogador 2	 	Vencedor
- 	5H 5C 6S 7S KD
-Par de cinco
- 	2C 3S 8S 8D TD
-Par de oito
- 	Jogador 2
- 	5D 8C 9S JS AC
-Carta mais alta: Ás
+ 	|Jogador 1	 			|Jogador 2	 	|Vencedor	|
+	|-----------------------|---------------|-----------|
+ 	|5H 5C 6S 7S KD 		|2C 3S 8S 8D TD	|Jogador 2	|
+	|Par de cinco			|Par de oito 				|
+	|-----------------------|---------------|-----------|
+ 	5D 8C 9S JS AC	Jogador 1
+	Carta mais alta: Ás
  	2C 5C 7D 8S QH
 Carta mais alta: Dama
- 	Jogador 1
+ 	
  	2D 9C AS AH AC
 Trinca de Ás
  	3D 6D 7D TD QD
