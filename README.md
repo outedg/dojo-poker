@@ -23,7 +23,8 @@ Alguns exemplos de mão e seus respectivos vencedores:
  	| 5H 5C 6S 7S KD 		| 2C 3S 8S 8D TD	| Jogador 2	|
 	| Par de cinco			| Par de oito 		| ---		|
 	
- 	5D 8C 9S JS AC	Jogador 1
+
+5D 8C 9S JS AC	Jogador 1
 	Carta mais alta: Ás
  	2C 5C 7D 8S QH
 Carta mais alta: Dama
